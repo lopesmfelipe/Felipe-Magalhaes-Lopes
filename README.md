@@ -2,7 +2,7 @@
 
 <div>
     <img height="140" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Felipe-Magalhaes-Lopes&show_icons=true&theme=dark&count_private=true">
-    <img height="120" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Felipe-Magalhaes-Lopes&layout=compact&theme=dark">
+    <img height="90" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Felipe-Magalhaes-Lopes&layout=compact&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
